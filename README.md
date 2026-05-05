@@ -14,11 +14,10 @@ To use the application, one could either run the Python script ".py" files direc
 7. View the nested outline of the Abbott AFINION 2 machine's HL7 message structure in the **"Nested_Outline.txt"** file.
 
 ## To use the Windows executable files (.exe), please follow this procedure (double-clicking every ".exe" to run the app):
-1. Go to the **"HL7_Retriever_Application_Files** folder.
-2. Run the **"fake_endpoint.exe"** application file.
-3. Run the **"hl7_server_Production_DB.exe"** application file.
-4. Run the **"hl7_client_2_one_test.exe"** application file or the **"hl7_client_test_runner.exe"** application file.
-5. Accept the confirmation message (in the application window for the **"hl7_server_Production_DB.exe"** file) showing that the data was successfully retrieved from the database.
-6. View the results appear (in the application window for the **"hl7_server_Production_DB.exe"** file).
-7. If you ran the **"hl7_client_test_runner.exe"** file, you can see the results of several tests (including edge case tests) in the **"hl7_test_message_results.txt"** file.
-8. View the nested outline of the Abbott AFINION 2 machine's HL7 message structure in the **"Nested_Outline.txt"** file.
+1. Run the **"fake_endpoint.exe"** application file.
+2. Run the **"hl7_server_Production_DB.exe"** application file.
+3. Run the **"hl7_client_2_one_test.exe"** application file or the **"hl7_client_test_runner.exe"** application file.
+4. Accept the confirmation message (in the application window for the **"hl7_server_Production_DB.exe"** file) showing that the data was successfully retrieved from the database.
+5. View the results appear (in the application window for the **"hl7_server_Production_DB.exe"** file).
+6. If you ran the **"hl7_client_test_runner.exe"** file, you can see the results of several tests (including edge case tests) in the **"hl7_test_message_results.txt"** file.
+7. View the nested outline of the Abbott AFINION 2 machine's HL7 message structure in the **"Nested_Outline.txt"** file.
