@@ -5,7 +5,7 @@ This is a project originally designed to help a diabetes clinic called Clinicas 
 To use the application, one could either run the Python script ".py" files directly, or one can use the Windows ".exe" applications.
 
 ## To use the Python script files, please follow this procedure (running each python script ".py" file in a seperate terminal):
-1. Please use the **"pip install requirements.txt"** command (in your work enviornemnt or code folder where you are running the code) to be sure that your           enviornment has the **needed dependencies** for the **open source libraries Flask==3.1.3, hl7apy==1.3.5, and Requets 2.33.1**.
+1. Please run the **"pip install requirements.txt"** command (in your work enviornemnt or code folder where you are running the code) to be sure that your           enviornment has the **needed dependencies** for the **open source libraries Flask==3.1.3, hl7apy==1.3.5, and Requets==2.33.1**.
 2. Run the **"fake_endpoint.py"** file.
 3. Run the **"hl7_server_Production_DB.py"** file.
 4. Run the **"hl7_client_2_one_test.py"** file or the **"hl7_client_test_runner.py"** file.
